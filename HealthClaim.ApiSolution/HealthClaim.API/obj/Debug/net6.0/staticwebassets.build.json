@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "1EM0133nQ+PdjXf30w8U91OW3lGAKmWWfiYLsgJLORc=",
+  "Source": "HealthClaim.API",
+  "BasePath": "_content/HealthClaim.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HealthClaim.API\\wwwroot",
+      "Source": "HealthClaim.API",
+      "ContentRoot": "E:\\HealthClaim.ApiSolution\\HealthClaim.ApiSolution\\HealthClaim.API\\wwwroot\\",
+      "BasePath": "_content/HealthClaim.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
